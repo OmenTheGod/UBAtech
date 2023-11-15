@@ -8,6 +8,7 @@ How It Works
 
 ⏱️ Race Against Time: Speed matters! Complete the challenges swiftly—the quickest coder takes home a shiny prize! 🏅✨
 
+
 How to Participate
 👉 Fork this Repository: Hit that fork button and make this code playground yours! 🍴
 
@@ -15,12 +16,14 @@ How to Participate
 
 🚀 Submit Your Solutions: Ready? Set? Code! Commit your solutions and create a pull request. Show us what you've got! 💻🔥
 
+
 Tips and Guidelines
 🤝 Collaborate & Learn: Join forces, brainstorm, and learn together. Don't be shy—sharing knowledge is awesome! 🌐💡
 
 🔍 Efficiency Is Key: Code smartly, aim for efficiency! Remember, it's not just about finishing, but about coding elegantly. 💫
 
 🤖 Have Fun: Most importantly, have a blast! Embrace the challenges, learn, and enjoy the coding adventure! 🎉🚀
+
 
 Prizes 🎁
 🥇 Speedster Award: The quickest coder across all challenges wins an epic prize! Get ready to shine! 🏆✨
